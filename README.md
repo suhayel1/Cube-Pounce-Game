@@ -5,7 +5,7 @@ You play as a blue cube and your goal is to destroy enemy cubes (magma/lava text
 Includes:
 - Entity Component System implementation
 - 3D graphics
-- Physics (gravity and external forces)
+- Physics (external forces)
 - Collisions
 - Basic enemy AI movement
 - 3rd Person Camera
